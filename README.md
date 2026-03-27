@@ -5,7 +5,7 @@
 Fracttalix explores fractal and rhythmic patterns in complex time series through the **Fractal Rhythm Model** — an open exploratory framework for understanding dynamic, non-linear systems.
 
 ## About
-This repository serves as a high-level landing page and resource hub. It provides public information, updates, and references related to Fracttalix’s exploratory work in fractal and rhythmic metrics.
+This repository serves as a high-level landing page and resource hub for public information, updates, and references related to Fracttalix’s exploratory work in fractal and rhythmic metrics.
 
 ## Exploration Focus
 - Fractal structures in time-based data
