@@ -17,12 +17,12 @@ This repository serves as a high-level landing page and resource hub, providing 
 - Citation information for academic references
 
 ## Governance
-- [LICENSE](LICENSE) — Creative Commons Attribution 4.0
+- [LICENSE](LICENSE) — Creative Commons Attribution 4.0 International
 - [SECURITY.md](SECURITY.md) — Vulnerability reporting
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Community guidelines
 
 ## Connect
-Stay updated through our social channels and website (links coming soon).
+Stay updated through our social channels and website.
 
 ---
 
