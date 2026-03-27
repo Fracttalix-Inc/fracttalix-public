@@ -17,8 +17,8 @@ This repository serves as a high-level landing page and resource hub, providing 
 - Citation information for academic references
 
 ## Governance
-- [LICENSE](LICENSE) — Creative Commons Attribution 4.0
-- [SECURITY.md](SECURITY.md) — Vulnerability reporting
+- [LICENSE](LICENSE) — Creative Commons Attribution 4.0 International
+- [SECURITY.md](SECURITY.md) — How to report security vulnerabilities
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Community guidelines
 
 ## Connect
